@@ -1,7 +1,7 @@
 # python_mail
 Enviar un Correo electronico desde Python
 
-La idea de es aprender a enviar un correo electrónico utilizando el módulo smtplib en Python. Con este script por podremos automatizar el envío de correos en aplicaciones más grandes.
+La idea de es aprender a enviar un correo electrónico utilizando el módulo smtplib en Python.
 
 Python incluye varios módulos para trabajar con servidores de correo electrónico. En nuestro script, utilizaremos el módulo smtplib que viene integrado en python, y nos servirá para mandar correos electrónicos.
 
